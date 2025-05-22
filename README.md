@@ -1,10 +1,11 @@
-<h1 align="center">Hi there 👋, I'm Ahmed Ben Sassi</h1>
+<h1 align="center">Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="24" alt="waving hand"/></h1>
 
 ## 👨‍💻 About Me
 
-🎓 Final year Telecommunications student  
-💻 DevOps & Cloud enthusiast | 🚀 Future DevSecOps Engineer  
-🌍 Open to internships and remote opportunities in DevOps  
+<img src="https://media.giphy.com/media/9Y5BbDSkSTiY8/giphy.gif" width="24" alt="laptop guy"/> Final year Telecommunications student  
+<img src="https://media.giphy.com/media/3o6Mbd1YIILzNDZTUI/giphy.gif" width="24" alt="graduation cap"/> DevOps & Cloud enthusiast | <img src="https://media.giphy.com/media/26BRv0ThflsHCqDrG/giphy.gif" width="24" alt="rocket"/> Future DevSecOps Engineer  
+<img src="https://media.giphy.com/media/3orieTl4EUMm1mBmaI/giphy.gif" width="24" alt="earth globe"/> Open to internships and remote opportunities in DevOps  
+ 
 
 ---
 
