@@ -1,10 +1,8 @@
 <h1 align="center">Hi there 👋, I'm Ahmed Ben Sassi</h1>
 
-
-
 ## 👨‍💻 About Me
 
-🎓 Final year Telecommunications  student  
+🎓 Final year Telecommunications student  
 💻 DevOps & Cloud enthusiast | 🚀 Future DevSecOps Engineer  
 🌍 Open to internships and remote opportunities in DevOps  
 
@@ -13,15 +11,12 @@
 ## 🤖 What I'm Interested In
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=700&color=00FF00&center=true&vCenter=true&width=600&lines=Automation;CI%2FCD+Pipelines;Infrastructure+as+Code+(IaC);Container+Orchestration;Monitoring+%26+Alerting;Cloud+Engineering;DevSecOps;GitOps+with+ArgoCD" alt="Interests Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=100&color=00FF00&center=true&vCenter=true&width=600&lines=Automation;CI%2FCD+Pipelines;Infrastructure+as+Code+(IaC);Container+Orchestration;Monitoring+%26+Alerting;Cloud+Engineering;DevSecOps;GitOps+with+ArgoCD" alt="Interests Typing Animation" />
 </p>
-
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" alt="DevOps Engineer GIF" />
 </p>
-
-
 
 ---
 
@@ -62,11 +57,11 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AhmedBenSassi&theme=tokyonight" alt="Ahmed's GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BenSassiAhmed&theme=tokyonight" alt="Ahmed's GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedBenSassi&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BenSassiAhmed&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
