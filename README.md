@@ -28,47 +28,48 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" alt="DevOps Engineer GIF" />
 </p>
 
-## 👨‍💻 DevOps Engineer Vibes
+## 👨‍💻 More DevOps Engineer GIFs
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="DevOps Engineer Working" width="600" />
+  <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" alt="DevOps Pipeline" width="600" />
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" alt="Tech Professional Coding" width="600" />
+  <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" alt="Working on Code" width="600" />
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o6Zt8MgUuvSbkZYWc/giphy.gif" alt="Code Deployment" width="600" />
+  <img src="https://media.giphy.com/media/3o6Zt2fFcAczDCM8mA/giphy.gif" alt="Tech Collaboration" width="600" />
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif" alt="Cloud Infrastructure" width="600" />
+  <img src="https://media.giphy.com/media/3ohhwytHcusSCXXOUg/giphy.gif" alt="Server Monitoring" width="600" />
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" alt="Automation Workflow" width="600" />
+  <img src="https://media.giphy.com/media/26xBwdIuRJiAIqHwA/giphy.gif" alt="Cloud DevOps" width="600" />
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" alt="Monitoring and Alerts" width="600" />
+  <img src="https://media.giphy.com/media/l0Exk8EUzSLsrErEQ/giphy.gif" alt="Automation Workflow" width="600" />
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/l0MYB8Ory7Hqefo9a/giphy.gif" alt="Professional DevOps Flow" width="600" />
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" alt="Develop and Deploy" width="600" />
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7abKGMpQbA74nJCw/giphy.gif" alt="Server Management" width="600" />
+  <img src="https://media.giphy.com/media/3o6Zt8MgUuvSbkZYWc/giphy.gif" alt="Continuous Integration" width="600" />
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3oKIPf3C7HqqYBVcCk/giphy.gif" alt="DevOps Automation" width="600" />
+  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" alt="Happy DevOps" width="600" />
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/l0MYB8Ory7Hqefo9a/giphy.gif" alt="Tech Workflow" width="600" />
+  <img src="https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif" alt="Deploy Success" width="600" />
 </p>
+
 
 ---
 
