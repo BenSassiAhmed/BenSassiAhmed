@@ -17,55 +17,28 @@
 
 ## 🛠️ Tech Stack
 
-**Cloud & Infrastructure:**
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white) 
-![EC2](https://img.shields.io/badge/EC2-orange?style=flat&logo=amazonec2&logoColor=white) 
-![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=flat&logo=terraform&logoColor=white)
+<p align="center">
+  <!-- Cloud & Infrastructure -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" alt="Terraform" width="40" height="40"/>
 
-**Containers & Orchestration:**
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
-![Helm](https://img.shields.io/badge/Helm-0F1689?style=flat&logo=helm&logoColor=white)
-![ArgoCD](https://img.shields.io/badge/ArgoCD-FE4B84?style=flat&logo=argo&logoColor=white)
+  <!-- Containers & Orchestration -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="Bash" width="40" height="40"/>
 
-**CI/CD & DevOps Tools:**
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
-![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=flat&logo=sonarqube&logoColor=white)
-![Nexus](https://img.shields.io/badge/Nexus-2D72D6?style=flat&logo=sonatype&logoColor=white)
+  <!-- CI/CD & DevOps -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" alt="Jenkins" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub Actions" width="40" height="40"/>
 
-**Monitoring:**
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white)
+  <!-- Monitoring & Tools -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" alt="Prometheus" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" alt="Grafana" width="40" height="40"/>
 
-**Others:**
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
-
----
-
-## 🚀 Projects
-
-Here are a few DevOps-focused projects I've worked on:
-
-- 🗳️ **[CI/CD Voting App with Kubernetes](https://github.com/your-username/project-voting-app)**  
-  A complete pipeline from Git to Kubernetes using Jenkins, Docker, and Helm
-
-- 📦 **[Docker + MongoDB + Mongo Express](https://github.com/your-username/docker-mongodb-app)**  
-  Containerized full-stack app with Docker Compose, secrets, and healthchecks
-
-- ☁️ **[AWS EC2 Jenkins Setup](https://github.com/your-username/aws-jenkins-pipeline)**  
-  Automated Jenkins deployment on EC2 with IAM, security groups, and pipelines
-
----
-
-## 📺 Coming Soon: YouTube Channel 🎥
-
-I'm preparing content for my **DevOps YouTube channel** launching in **Summer 2025**:  
-💡 Tutorials | 🛠️ Project Walkthroughs | 🚀 Career Tips
-
-Stay tuned! 😄
+  <!-- OS & Utilities -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+</p>
 
 ---
 
@@ -78,4 +51,3 @@ Stay tuned! 😄
 ---
 
 > “Discipline is the bridge between goals and accomplishment.” – *Jim Rohn*
-
