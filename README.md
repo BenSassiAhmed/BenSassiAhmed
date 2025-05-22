@@ -8,18 +8,21 @@
 
 ## 👨‍💻 About Me
 
-I'm **Ahmed Ben Sassi**, a final-year Telecommunications Engineering student with a strong passion for **DevOps**, **Cloud Computing**, and **Automation**. I’ve built a strong foundation in tools like **Linux**, **Git**, **Docker**, **Jenkins**, **Kubernetes**, and **AWS**, and I love creating efficient, automated workflows using modern DevOps practices.
-
-Over time, I’ve worked on end-to-end CI/CD pipelines, cloud deployments, and container orchestration. I'm continuously improving my skills by building real-world projects and exploring advanced topics like GitOps and Monitoring.
-
-My future goals include diving deeper into **Infrastructure as Code (IaC)**, **Site Reliability Engineering (SRE)**, and eventually becoming skilled in **MLOps** and **DevSecOps** to build secure, scalable infrastructure and pipelines.
+- 🎓 Final-year Telecommunications Engineering student  
+- 🚀 DevOps, Cloud, and Automation enthusiast  
+- 💡 Passionate about CI/CD, Infrastructure as Code, and container orchestration  
+- 🐧 Strong foundation in Linux, Git, Docker, Jenkins, Kubernetes, and AWS  
+- 🔧 Hands-on experience building pipelines and deploying on cloud platforms  
+- 📈 Actively learning GitOps, Monitoring, and advanced cloud-native tools  
+- 🛡️ Aspiring to specialize in **DevSecOps** and **MLOps** in the near future  
+- 🌍 Open to internships and remote opportunities in DevOps  
 
 ---
 
 ## 🤖 What I'm Interested In
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=700&color=4AE8F8&center=true&vCenter=true&width=600&lines=Automation;CI%2FCD+Pipelines;Infrastructure+as+Code+(IaC);Container+Orchestration;Monitoring+%26+Alerting;Cloud+Engineering;DevSecOps;GitOps+with+ArgoCD" alt="Interests Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=700&color=00FF00&center=true&vCenter=true&width=600&lines=Automation;CI%2FCD+Pipelines;Infrastructure+as+Code+(IaC);Container+Orchestration;Monitoring+%26+Alerting;Cloud+Engineering;DevSecOps;GitOps+with+ArgoCD" alt="Interests Typing Animation" />
 </p>
 
 ---
@@ -51,6 +54,22 @@ My future goals include diving deeper into **Infrastructure as Code (IaC)**, **S
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AhmedBenSassi&show_icons=true&theme=tokyonight" alt="Ahmed's GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AhmedBenSassi&theme=tokyonight" alt="Ahmed's GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedBenSassi&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
