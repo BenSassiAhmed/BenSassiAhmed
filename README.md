@@ -6,6 +6,7 @@
 💻 DevOps & Cloud enthusiast 
 🌍 Open to internships, apprenticeships (work-study program), and remote opportunities in DevOps  
 🧠 Passionate about teaching and knowledge sharing
+<!--
 📺 Planning to launch a YouTube channel soon — stay tuned for DevOps content!
 
 <p align="center">
@@ -13,7 +14,7 @@
     <img src="https://img.shields.io/badge/YouTube-Coming%20Soon!-red?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Coming Soon Badge"/>
   </a>
 </p>
-
+-->
 ---
 
 ## 🤖 What I'm Interested In
