@@ -4,9 +4,10 @@
 
 🎓 Final year Telecommunications student  
 💻 DevOps & Cloud enthusiast | 🚀 Future DevSecOps Engineer  
-🌍 Open to internships and remote opportunities in DevOps
----
+🌍 Open to internships, apprenticeships (work-study program), and remote opportunities in DevOps  
+🧠 Passionate about teaching and knowledge sharing
 
+---
 
 ## 🤖 What I'm Interested In
 
