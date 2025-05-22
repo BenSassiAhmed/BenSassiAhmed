@@ -31,44 +31,45 @@
 ## 👨‍💻 More DevOps Engineer GIFs
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" alt="DevOps Pipeline" width="600" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" alt="DevOps Engineer GIF 1" />
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" alt="Working on Code" width="600" />
+  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="600" alt="DevOps Engineer GIF 2" />
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o6Zt2fFcAczDCM8mA/giphy.gif" alt="Tech Collaboration" width="600" />
+  <img src="https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif" width="600" alt="DevOps Engineer GIF 3" />
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3ohhwytHcusSCXXOUg/giphy.gif" alt="Server Monitoring" width="600" />
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="600" alt="DevOps Engineer GIF 4" />
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/26xBwdIuRJiAIqHwA/giphy.gif" alt="Cloud DevOps" width="600" />
+  <img src="https://media.giphy.com/media/3o6Zt8MgUuvSbkZYWc/giphy.gif" width="600" alt="DevOps Engineer GIF 5" />
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/l0Exk8EUzSLsrErEQ/giphy.gif" alt="Automation Workflow" width="600" />
+  <img src="https://media.giphy.com/media/26xBwdIuRJiAIqHwA/giphy.gif" width="600" alt="DevOps Engineer GIF 6" />
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" alt="Develop and Deploy" width="600" />
+  <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="600" alt="DevOps Engineer GIF 7" />
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o6Zt8MgUuvSbkZYWc/giphy.gif" alt="Continuous Integration" width="600" />
+  <img src="https://media.giphy.com/media/3ohhwytHcusSCXXOUg/giphy.gif" width="600" alt="DevOps Engineer GIF 8" />
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" alt="Happy DevOps" width="600" />
+  <img src="https://media.giphy.com/media/3o6Zt2fFcAczDCM8mA/giphy.gif" width="600" alt="DevOps Engineer GIF 9" />
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif" alt="Deploy Success" width="600" />
+  <img src="https://media.giphy.com/media/l0Exk8EUzSLsrErEQ/giphy.gif" width="600" alt="DevOps Engineer GIF 10" />
 </p>
+
 
 
 ---
