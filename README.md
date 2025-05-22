@@ -28,57 +28,48 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" alt="DevOps Engineer GIF" />
 </p>
 
-## 🎬 DevOps GIFs Collection
+## 👨‍💻 DevOps Engineer Vibes
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" alt="Everything's Fine" width="400" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="DevOps Engineer Working" width="600" />
 </p>
-<p align="center"><i>Everything's Fine (When production breaks)</i></p>
 
 <p align="center">
-  <img src="https://media.tenor.com/5xZlYwLq6JMAAAAC/parallaxed-devops.gif" alt="DevOps Team" width="400" />
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" alt="Tech Professional Coding" width="600" />
 </p>
-<p align="center"><i>DevOps Team Collaboration</i></p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" alt="Cloud DevSecOps" width="400" />
+  <img src="https://media.giphy.com/media/3o6Zt8MgUuvSbkZYWc/giphy.gif" alt="Code Deployment" width="600" />
 </p>
-<p align="center"><i>Cloud DevSecOps in Action</i></p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="GitHub Binder" width="400" />
+  <img src="https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif" alt="Cloud Infrastructure" width="600" />
 </p>
-<p align="center"><i>Binding Code & Docs Together</i></p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/13V60u4zWmTJLG/giphy.gif" alt="DevOps Infinite Loop" width="400" />
+  <img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" alt="Automation Workflow" width="600" />
 </p>
-<p align="center"><i>Continuous Integration & Delivery Loop</i></p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/xUOxf4RW8v3l36M1GM/giphy.gif" alt="Cloud DevOps Services" width="400" />
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" alt="Monitoring and Alerts" width="600" />
 </p>
-<p align="center"><i>Exploring Cloud DevOps Services</i></p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/26gsspfU2E9MqzwTi/giphy.gif" alt="ArgoCD My Beloved" width="400" />
+  <img src="https://media.giphy.com/media/l0MYB8Ory7Hqefo9a/giphy.gif" alt="Professional DevOps Flow" width="600" />
 </p>
-<p align="center"><i>ArgoCD - My Beloved</i></p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3oEdv1k63J1M0TeDOI/giphy.gif" alt="DevOps Consulting Services" width="400" />
+  <img src="https://media.giphy.com/media/3o7abKGMpQbA74nJCw/giphy.gif" alt="Server Management" width="600" />
 </p>
-<p align="center"><i>Consulting Services in DevOps</i></p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/l2JJSojPhdzM6vG6A/giphy.gif" alt="DevOps Reaction" width="400" />
+  <img src="https://media.giphy.com/media/3oKIPf3C7HqqYBVcCk/giphy.gif" alt="DevOps Automation" width="600" />
 </p>
-<p align="center"><i>Typical DevOps Reactions</i></p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7aCVzSbntxBf3J0o/giphy.gif" alt="DevOps AWS Azure" width="400" />
+  <img src="https://media.giphy.com/media/l0MYB8Ory7Hqefo9a/giphy.gif" alt="Tech Workflow" width="600" />
 </p>
-<p align="center"><i>DevOps with AWS & Azure</i></p>
+
 ---
 
 ## 🛠️ Tech Stack
