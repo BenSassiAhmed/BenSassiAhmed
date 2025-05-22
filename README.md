@@ -100,4 +100,13 @@
 
 ---
 
-<p align="center"><i>“Discipline is the bridge between goals and accomplishment.” – Jim Rohn</i></p>
+<p align="center" style="font-style: italic; color: #555;">
+ <b>Indeed, Allah loves that when anyone of you does a job, he does it perfectly.</b>  
+  — Muhammad (PBUH)
+</p>
+
+<p align="center" style="font-style: italic; color: #555;">
+  <br />
+  <b>The best of people are those who are most beneficial to people.</b>  
+  — Muhammad (PBUH)
+</p>
