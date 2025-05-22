@@ -39,37 +39,36 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3ohs4mRGO82qgqSbzq/giphy.gif" width="600" alt="DevOps Engineer GIF 3" />
+  <img src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" width="600" alt="DevOps Engineer GIF 3" />
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" width="600" alt="DevOps Engineer GIF 4" />
+  <img src="https://media.giphy.com/media/3o7hwytHcusSCXXOUg/giphy.gif" width="600" alt="DevOps Engineer GIF 4" />
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3ohhwytHcusSCXXOUg/giphy.gif" width="600" alt="DevOps Engineer GIF 5" />
+  <img src="https://media.giphy.com/media/3o6Zt2fFcAczDCM8mA/giphy.gif" width="600" alt="DevOps Engineer GIF 5" />
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/l4pTfx2qLszoacZRS/giphy.gif" width="600" alt="DevOps Engineer GIF 6" />
+  <img src="https://media.giphy.com/media/l0Exk8EUzSLsrErEQ/giphy.gif" width="600" alt="DevOps Engineer GIF 6" />
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif" width="600" alt="DevOps Engineer GIF 7" />
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="600" alt="DevOps Engineer GIF 7" />
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3ohzdYJK1wAdPWVk88/giphy.gif" width="600" alt="DevOps Engineer GIF 8" />
+  <img src="https://media.giphy.com/media/3o6Zt8MgUuvSbkZYWc/giphy.gif" width="600" alt="DevOps Engineer GIF 8" />
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif" width="600" alt="DevOps Engineer GIF 9" />
+  <img src="https://media.giphy.com/media/26xBwdIuRJiAIqHwA/giphy.gif" width="600" alt="DevOps Engineer GIF 9" />
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3ohhwF34cGDoFFhRfy/giphy.gif" width="600" alt="DevOps Engineer GIF 10" />
+  <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="600" alt="DevOps Engineer GIF 10" />
 </p>
-
 
 
 
