@@ -8,13 +8,6 @@
 💻 DevOps & Cloud enthusiast | 🚀 Future DevSecOps Engineer  
 🌍 Open to internships and remote opportunities in DevOps  
 
-
-
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" alt="DevOps Engineer GIF" />
-</p>
-
-
 ---
 
 ## 🤖 What I'm Interested In
@@ -22,6 +15,13 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=700&color=00FF00&center=true&vCenter=true&width=600&lines=Automation;CI%2FCD+Pipelines;Infrastructure+as+Code+(IaC);Container+Orchestration;Monitoring+%26+Alerting;Cloud+Engineering;DevSecOps;GitOps+with+ArgoCD" alt="Interests Typing Animation" />
 </p>
+
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" alt="DevOps Engineer GIF" />
+</p>
+
+
 
 ---
 
@@ -40,7 +40,6 @@
 
   <!-- CI/CD -->
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
   <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white" />
   <img src="https://img.shields.io/badge/Nexus-2D72D6?style=for-the-badge&logo=sonatype&logoColor=white" />
 
@@ -75,8 +74,8 @@
 ## 📫 Connect with Me
 
 <p align="center">
-  <a href="mailto:bensassiahmed989@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/your-link"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:bensassiahmed03@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/ben-sassi-ahmed-44a5701b0/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
 ---
