@@ -62,8 +62,8 @@
 
 <p align="center">
 
-  [![](https://visitcount.itsvg.in/api?id=BenSassiAhmed&icon=5&color=1)](https://visitcount.itsvg.in)
-
+  <!-- Profile Views -->
+  <img src="https://komarev.com/ghpvc/?username=BenSassiAhmed&style=flat-square&color=blue" alt="Profile views" />
 
   <!-- Last Commit -->
   <img src="https://img.shields.io/github/last-commit/BenSassiAhmed/BenSassiAhmed?style=flat&color=green" alt="Last Commit" />
