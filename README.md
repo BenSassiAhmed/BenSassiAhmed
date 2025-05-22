@@ -1,8 +1,4 @@
 <h1 align="center">Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="24" alt="waving hand"/> I'm Ahmed BEN SASSI</h1>
-<!-- Optional visitor badge -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=bensassiahmed&style=flat-square&color=blue" alt="Profile views"/>
-</p>
 
 ## 👨‍💻 About Me
 
@@ -53,7 +49,16 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
 </p>
-
+---
+<!-- Optional visitor badge -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=bensassiahmed&style=flat-square&color=blue" alt="Profile views"/>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/github/followers/BenSassiAhmed?label=Followers&style=social" alt="GitHub Followers" />
+  <img src="https://img.shields.io/github/stars/BenSassiAhmed?label=Stars&style=social" alt="GitHub Stars" />
+  <img src="https://img.shields.io/github/last-commit/BenSassiAhmed/BenSassiAhmed?style=flat&color=green" alt="Last Commit" />
+</p>
 ---
 <!--
 ## 📊 GitHub Stats
