@@ -51,11 +51,6 @@
 </p>
 ---
 <p align="center">
-  <!-- Followers -->
-  <img src="https://img.shields.io/github/followers/BenSassiAhmed?label=Followers&style=social" alt="GitHub Followers" />
-
-  <!-- Stars -->
-  <img src="https://img.shields.io/github/stars/BenSassiAhmed?label=Stars&style=social" alt="GitHub Stars" />
 
   <!-- Profile Views -->
   <img src="https://komarev.com/ghpvc/?username=BenSassiAhmed&style=flat-square&color=blue" alt="Profile views" />
@@ -66,7 +61,6 @@
 
 
  
----
 <!--
 ## 📊 GitHub Stats
 
