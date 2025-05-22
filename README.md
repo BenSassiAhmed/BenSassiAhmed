@@ -3,7 +3,7 @@
 ## 👨‍💻 About Me
 
 🎓 Final year Telecommunications student  
-💻 DevOps & Cloud enthusiast | 🚀 Future DevSecOps Engineer  
+💻 DevOps & Cloud enthusiast 
 🌍 Open to internships, apprenticeships (work-study program), and remote opportunities in DevOps  
 🧠 Passionate about teaching and knowledge sharing
 📺 Planning to launch a YouTube channel soon — stay tuned for DevOps content!
