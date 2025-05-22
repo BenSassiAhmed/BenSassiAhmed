@@ -1,21 +1,12 @@
 <h1 align="center">Hi there 👋, I'm Ahmed Ben Sassi</h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Final+Year+Telecom+Engineering+Student;DevOps+%26+Cloud+Enthusiast;Future+MLOps+Engineer;Open+to+Opportunities+Worldwide" alt="Typing SVG" />
-</p>
 
----
 
 ## 👨‍💻 About Me
 
-- 🎓 Final-year Telecommunications Engineering student  
-- 🚀 DevOps, Cloud, and Automation enthusiast  
-- 💡 Passionate about CI/CD, Infrastructure as Code, and container orchestration  
-- 🐧 Strong foundation in Linux, Git, Docker, Jenkins, Kubernetes, and AWS  
-- 🔧 Hands-on experience building pipelines and deploying on cloud platforms  
-- 📈 Actively learning GitOps, Monitoring, and advanced cloud-native tools  
-- 🛡️ Aspiring to specialize in **DevSecOps** and **MLOps** in the near future  
-- 🌍 Open to internships and remote opportunities in DevOps  
+🎓 Final year Telecommunications  student  
+💻 DevOps & Cloud enthusiast | 🚀 Future DevSecOps Engineer  
+🌍 Open to internships and remote opportunities in DevOps  
 
 ---
 
