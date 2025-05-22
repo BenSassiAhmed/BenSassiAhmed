@@ -55,7 +55,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BenSassiAhmed&show_icons=true&theme=tokyonight" alt="Ahmed's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=BenSassiAhmed&show_icons=true&theme=tokyonight&count_private=true&hide=prs" alt="Ahmed's GitHub Stats" />
 </p>
 
 <p align="center">
@@ -63,7 +63,11 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BenSassiAhmed&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BenSassiAhmed&layout=compact&theme=tokyonight&langs_count=8" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=BenSassiAhmed&theme=tokyonight" alt="WakaTime Stats" />
 </p>
 
 ---
