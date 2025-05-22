@@ -28,49 +28,6 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" alt="DevOps Engineer GIF" />
 </p>
 
-## 👨‍💻 More DevOps Engineer GIFs
-
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" alt="DevOps Engineer GIF 1" />
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/l0MYB8Ory7Hqefo9a/giphy.gif" width="600" alt="DevOps Engineer GIF 2" />
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" width="600" alt="DevOps Engineer GIF 3" />
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7hwytHcusSCXXOUg/giphy.gif" width="600" alt="DevOps Engineer GIF 4" />
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/3o6Zt2fFcAczDCM8mA/giphy.gif" width="600" alt="DevOps Engineer GIF 5" />
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/l0Exk8EUzSLsrErEQ/giphy.gif" width="600" alt="DevOps Engineer GIF 6" />
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="600" alt="DevOps Engineer GIF 7" />
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/3o6Zt8MgUuvSbkZYWc/giphy.gif" width="600" alt="DevOps Engineer GIF 8" />
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/26xBwdIuRJiAIqHwA/giphy.gif" width="600" alt="DevOps Engineer GIF 9" />
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="600" alt="DevOps Engineer GIF 10" />
-</p>
-
-
 
 ---
 
