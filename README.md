@@ -63,21 +63,9 @@
   <!-- Last Commit -->
   <img src="https://img.shields.io/github/last-commit/BenSassiAhmed/BenSassiAhmed?style=flat&color=green" alt="Last Commit" />
 
-  <!-- Repositories -->
-  <img src="https://img.shields.io/badge/Public%20Repos-10-important?style=flat-square" alt="Public Repos" />
 
-  <!-- Joined GitHub -->
-  <img src="https://badgen.net/github/join-date/BenSassiAhmed" alt="Join Date" />
 
-  <!-- Contributions -->
-  <img src="https://badges.pufler.dev/commits/monthly/BenSassiAhmed" alt="Monthly Commits" />
-
-  <!-- Languages used -->
-  <img src="https://img.shields.io/github/languages/count/BenSassiAhmed?style=flat-square" alt="Languages Used" />
-
-  <!-- License badge -->
-  <img src="https://img.shields.io/github/license/BenSassiAhmed/BenSassiAhmed?style=flat-square" alt="License" />
-</p>
+ 
 ---
 <!--
 ## 📊 GitHub Stats
