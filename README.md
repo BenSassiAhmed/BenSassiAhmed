@@ -6,11 +6,13 @@
 
 ---
 
-## 👨‍💻 Who I Am
+## 👨‍💻 About Me
 
-🎓 I'm a final-year Telecommunications Engineering student with a deep passion for DevOps, Cloud, and automation.  
-🛠️ I love building modern infrastructure using DevOps best practices, CI/CD pipelines, container orchestration, and infrastructure as code.  
-📦 My goal is to become a highly skilled DevOps and MLOps engineer, delivering scalable and secure solutions.
+I'm **Ahmed Ben Sassi**, a final-year Telecommunications Engineering student with a strong passion for **DevOps**, **Cloud Computing**, and **Automation**. I’ve built a strong foundation in tools like **Linux**, **Git**, **Docker**, **Jenkins**, **Kubernetes**, and **AWS**, and I love creating efficient, automated workflows using modern DevOps practices.
+
+Over time, I’ve worked on end-to-end CI/CD pipelines, cloud deployments, and container orchestration. I'm continuously improving my skills by building real-world projects and exploring advanced topics like GitOps and Monitoring.
+
+My future goals include diving deeper into **Infrastructure as Code (IaC)**, **Site Reliability Engineering (SRE)**, and eventually becoming skilled in **MLOps** and **DevSecOps** to build secure, scalable infrastructure and pipelines.
 
 ---
 
