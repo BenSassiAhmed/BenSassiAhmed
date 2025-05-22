@@ -1,60 +1,81 @@
-<h1 align="center">Hi there, I'm Ahmed 👋</h1>
+# 👋 Hi, I'm Ahmed Ben Sassi
 
-<p align="center">
-  🚀 DevOps Enthusiast | ☁️ AWS Learner | 🐧 Linux Power User<br>
-  🛠️ Currently building CI/CD pipelines and Kubernetes deployments
-</p>
-
----
-
-### 👨‍💻 About Me
-
-- 🎓 Final year Telecommunications Engineering student
-- 🧰 Tech Stack: `Linux`, `Docker`, `Jenkins`, `Kubernetes`, `AWS`, `Git`, `Shell scripting`
-- 🌱 Currently learning: `Terraform`, `Ansible`, `Helm`, `ArgoCD`
-- 🔍 Seeking: DevOps internship opportunities in 🇫🇷 France or 🇹🇳 Tunisia
-- 🧠 Goal: Become a top DevOps consultant & future MLOps expert
+🎓 Final year Telecommunications Engineering student  
+💻 DevOps & Cloud enthusiast | 🚀 Future MLOps Engineer  
+🇹🇳 Based in Tunisia | 🌍 Open to global opportunities
 
 ---
 
-### 📌 Featured Projects
+## 💼 What I Do
 
-| Project | Description | Tech Stack |
-|--------|-------------|------------|
-| [Voting App CI/CD](https://github.com/your-repo) | Built a full CI/CD pipeline with Jenkins, Docker, K8s | Jenkins, Docker, Kubernetes |
-| [MongoDB on Minikube](https://github.com/your-repo) | MongoDB + Mongo Express deployed with ConfigMap & Secret | Minikube, Docker, K8s |
-
----
-
-### 🛠️ Tools & Technologies
-
-![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=flat-square)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=flat-square)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=flat-square)
-![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white&style=flat-square)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=flat-square)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white&style=flat-square)
+- 🧠 Currently deepening my skills in **AWS, Kubernetes, GitOps (ArgoCD), and IaC (Terraform)**
+- 🔁 Building full **CI/CD pipelines** with tools like Jenkins, SonarQube, Docker, Nexus, and GitHub Actions
+- ☸️ Orchestrating containerized applications with **Kubernetes**, Helm, and Prometheus/Grafana for monitoring
+- 🔐 Passionate about DevOps, automation, and scalable infrastructure
 
 ---
 
-### 📈 GitHub Stats
+## 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bensassiahmed&show_icons=true&theme=github_dark" alt="Ahmed's GitHub stats" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=bensassiahmed&theme=github-dark&date_format=M%20j%5B%2C%20Y%5D" width="48%"/>
-</p>
+**Cloud & Infrastructure:**
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white) 
+![EC2](https://img.shields.io/badge/EC2-orange?style=flat&logo=amazonec2&logoColor=white) 
+![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=flat&logo=terraform&logoColor=white)
+
+**Containers & Orchestration:**
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![Helm](https://img.shields.io/badge/Helm-0F1689?style=flat&logo=helm&logoColor=white)
+![ArgoCD](https://img.shields.io/badge/ArgoCD-FE4B84?style=flat&logo=argo&logoColor=white)
+
+**CI/CD & DevOps Tools:**
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
+![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=flat&logo=sonarqube&logoColor=white)
+![Nexus](https://img.shields.io/badge/Nexus-2D72D6?style=flat&logo=sonatype&logoColor=white)
+
+**Monitoring:**
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white)
+
+**Others:**
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
 
 ---
 
-### 📫 Let's Connect!
+## 🚀 Projects
 
-- 📧 Email: bensassiahmed989@gmail.com
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-link/)
-- 🌐 [Portfolio Website](https://yourwebsite.com)
+Here are a few DevOps-focused projects I've worked on:
+
+- 🗳️ **[CI/CD Voting App with Kubernetes](https://github.com/your-username/project-voting-app)**  
+  A complete pipeline from Git to Kubernetes using Jenkins, Docker, and Helm
+
+- 📦 **[Docker + MongoDB + Mongo Express](https://github.com/your-username/docker-mongodb-app)**  
+  Containerized full-stack app with Docker Compose, secrets, and healthchecks
+
+- ☁️ **[AWS EC2 Jenkins Setup](https://github.com/your-username/aws-jenkins-pipeline)**  
+  Automated Jenkins deployment on EC2 with IAM, security groups, and pipelines
 
 ---
 
-<!-- Optional visitor badge -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=bensassiahmed&style=flat-square&color=blue" alt="Profile views"/>
-</p>
+## 📺 Coming Soon: YouTube Channel 🎥
+
+I'm preparing content for my **DevOps YouTube channel** launching in **Summer 2025**:  
+💡 Tutorials | 🛠️ Project Walkthroughs | 🚀 Career Tips
+
+Stay tuned! 😄
+
+---
+
+## 📫 Let's Connect
+
+- 📧 Email: bensassiahmed989@gmail.com  
+- 💼 [LinkedIn](https://www.linkedin.com/in/your-link)  
+- 🌐 Portfolio: coming soon!
+
+---
+
+> “Discipline is the bridge between goals and accomplishment.” – *Jim Rohn*
+
