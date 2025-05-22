@@ -1,16 +1,28 @@
 <h1 align="center">Hi there 👋, I'm Ahmed Ben Sassi</h1>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
-  <i>Final year Telecommunications Engineering student passionate about DevOps, Cloud, and Automation.</i>
-</p>
 
 <p align="center">
-  💻 DevOps & Cloud Enthusiast | ☁️ AWS Explorer | 🚀 Future MLOps Engineer  
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Final+Year+Telecom+Engineering+Student;DevOps+%26+Cloud+Enthusiast;Future+MLOps+Engineer;Open+to+Opportunities+Worldwide" alt="Typing SVG" />
 </p>
 
 ---
 
-## 🔧 Tech Stack
+## 👨‍💻 Who I Am
+
+🎓 I'm a final-year Telecommunications Engineering student with a deep passion for DevOps, Cloud, and automation.  
+🛠️ I love building modern infrastructure using DevOps best practices, CI/CD pipelines, container orchestration, and infrastructure as code.  
+📦 My goal is to become a highly skilled DevOps and MLOps engineer, delivering scalable and secure solutions.
+
+---
+
+## 🤖 What I'm Interested In
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=700&color=4AE8F8&center=true&vCenter=true&width=600&lines=Automation;CI%2FCD+Pipelines;Infrastructure+as+Code+(IaC);Container+Orchestration;Monitoring+%26+Alerting;Cloud+Engineering;DevSecOps;GitOps+with+ArgoCD" alt="Interests Typing Animation" />
+</p>
+
+---
+
+## 🛠️ Tech Stack
 
 <p align="center">
   <!-- Cloud & IaC -->
@@ -38,16 +50,6 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
 </p>
-
----
-
-## 👨‍💻 About Me
-
-- 🎓 I'm a final-year Telecommunications Engineering student
-- 🛠️ Building CI/CD pipelines, automating infrastructure, deploying scalable apps
-- ☸️ Orchestrating microservices using Kubernetes, Helm, and ArgoCD
-- 📈 Monitoring with Prometheus & Grafana, and securing quality with SonarQube
-- 💡 Lifelong learner with a passion for modern DevOps tools and cloud tech
 
 ---
 
