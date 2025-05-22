@@ -8,11 +8,13 @@
 
 ---
 
+
 ## 🤖 What I'm Interested In
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=50&color=0000FF&center=true&vCenter=true&width=600&lines=Automation;CI%2FCD+Pipelines;Infrastructure+as+Code;Orchestration;Monitoring+%26+Alerting;Cloud;DevSecOps;GitOps+Implementation" alt="Interests Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=10&color=00CFFF&center=true&vCenter=true&width=600&lines=Automation;CI%2FCD+Pipelines;Infrastructure+as+Code+(IaC);Container+Orchestration;Monitoring+%26+Alerting;Cloud+Engineering;DevSecOps;GitOps+with+ArgoCD" alt="Interests Typing Animation" />
 </p>
+
 
 
 <p align="center">
